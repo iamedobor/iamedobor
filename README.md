@@ -18,8 +18,10 @@
 
 | Project | Description | Status |
 |---|---|---|
-| [Jobstelo](https://jobstelo.vercel.app) | AI-powered career prep platform | 🚀 Live |
+| [Jobstelo](https://jobstelo.com) | AI-powered career prep platform | 🚀 Live |
 | [SkyWalker](https://github.com/iamedobor/skywalker-agent) | Open-source browser agent that navigates by vision, not DOM | 🔨 Active |
+| [Customer Segmentation Dashboard](https://customer-segmentation-osasere-edobor.streamlit.app/) | Interactive K-Means, Hierarchical & GMM clustering for targeted marketing | 🚀 Live |
+| [Trade-GDP Analysis](https://trade-gdp-dashboard.onrender.com/) | Exploring the relationship between international trade and GDP across countries | 🚀 Live |
 
 ---
 
