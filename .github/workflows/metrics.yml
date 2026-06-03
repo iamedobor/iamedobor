@@ -17,7 +17,7 @@ jobs:
       - name: Top languages
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           user: iamedobor
           template: classic
           base: ""
@@ -32,7 +32,7 @@ jobs:
       - name: Contribution calendar
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           user: iamedobor
           template: classic
           base: ""
