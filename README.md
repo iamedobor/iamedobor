@@ -20,8 +20,8 @@
 |---|---|---|
 | [Jobstelo](https://jobstelo.com) | AI-powered career prep platform | 🚀 Live |
 | [SkyWalker](https://github.com/iamedobor/skywalker-agent) | Open-source browser agent that navigates by vision, not DOM | 🔨 Active |
-| [Customer Segmentation Dashboard](https://customer-segmentation-osasere-edobor.streamlit.app/) | Interactive K-Means, Hierarchical & GMM clustering for targeted marketing | 🚀 Live |
-| [Trade-GDP Analysis](https://trade-gdp-dashboard.onrender.com/) | Exploring the relationship between international trade and GDP across countries | 🚀 Live |
+| [Customer Segmentation](https://github.com/iamedobor/customer-segmentation) | Interactive K-Means, Hierarchical & GMM clustering for targeted marketing | 🚀 [Live](https://customer-segmentation-osasere-edobor.streamlit.app/) |
+| [Trade-GDP Analysis](https://github.com/iamedobor/trade-gdp-analysis) | Exploring the relationship between international trade and GDP across countries | 🚀 [Live](https://trade-gdp-dashboard.onrender.com/) |
 
 ---
 
@@ -46,8 +46,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamedobor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamedobor&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamedobor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamedobor&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
@@ -61,6 +61,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=iamedobor&color=6E40C9&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=iamedobor&color=6E40C9&style=flat-square&label=Profile+Views)
 
 </div>
