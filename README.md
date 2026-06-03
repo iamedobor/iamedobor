@@ -42,18 +42,17 @@
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="github-stats.svg"/>
-<img height="180em" src="github-langs.svg"/>
+<img src="github-langs.svg"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iamedobor&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="github-calendar.svg"/>
 
 </div>
 
